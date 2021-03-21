@@ -1,0 +1,44 @@
+{
+  "name": "crypto-project",
+  "version": "1.0.0",
+  "description": "Crypto Project Practice using Kraken API, D3.js and more",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrouzcategui/Crypto-Project.git"
+  },
+  "keywords": [
+    "Crypto",
+    "CryptoCurrency",
+    "CryptoCoin",
+    "Bitcoin",
+    "Ethereum"
+  ],
+  "author": "Juan Alvarez & Pedro Uzcategui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pedrouzcategui/Crypto-Project/issues"
+  },
+  "homepage": "https://github.com/pedrouzcategui/Crypto-Project#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.1",
+    "next": "^10.0.9",
+    "puppeteer-core": "^8.0.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "styled-components": "^5.2.1"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "nodemon": "^2.0.7"
+  }
+}

@@ -1,0 +1,5 @@
+# Not neccesary
+node_modules
+
+# This folder is generated when `npm run dev`
+.next
